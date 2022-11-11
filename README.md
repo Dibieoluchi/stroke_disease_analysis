@@ -1,5 +1,8 @@
 # stroke_disease_analysis
  STROKE DISEASE ANALYSIS
+ 
+ ![image](https://user-images.githubusercontent.com/88893142/201344314-14d56504-9a68-4118-9ef5-f3b7fd833f93.png)
+
 A stroke, sometimes called a brain attack, occurs when something blocks blood supply to part of the brain or when a blood vessel in the brain bursts.
 
 In either case, parts of the brain become damaged or die. A stroke can cause lasting brain damage, long-term disability, or even death.
